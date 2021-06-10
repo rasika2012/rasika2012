@@ -1,10 +1,21 @@
+<h1 align="center">Hi 👋, I'm Rasika Maduranga </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rasika2012" alt="rasika2012" /> </p>
 
 
-# ก็็็็็็็็็็็็็ʕ•͡ᴥ•ʔ ก้้้้้้้้้้้
+ #### ⭐  Statistics and Languages
 
-# Work Load :D
-[![Rasika's github stats](https://github-readme-stats.vercel.app/api?username=rasika2012&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ <p align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=rasika2012&count_private=true&show_icons=true&theme=tokyonight" alt="rasika2012" width="620"/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasika2012&hide=jupyter%20notebook,html,css&langs_count=8&layout=compact&count_private=true&theme=tokyonight" alt="rasika2012" height="165" />
+ </p>
 
-## Langs
+<p align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rasika2012&layout=compact)
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rasika2012&count_private=true&theme=tokyonight" />
+
+</p>
+
+
+<p align="center">
+    <img width="48%" src="https://profile-counter.glitch.me/rasika2012/count.svg" />
+</p>
