@@ -1,20 +1,18 @@
-<h1 align="center">Hi 👋, I'm Rasika Maduranga </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rasika2012" alt="rasika2012" /> </p>
+### Hi, I'm Rasika 👋
+<!--
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+[![Github](https://img.shields.io/github/followers/kanushka?label=Follow&style=social)](https://github.com/rasika2012/) 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rasika2012&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rasika2012&theme=apprentice&utcOffset=5.30)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rasika2012&theme=apprentice)
 
- #### ⭐  Statistics and Languages
-
- <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasika2012&hide=jupyter%20notebook,html,css&langs_count=8&layout=compact&count_private=true&theme=tokyonight" alt="rasika2012" height="165" width="500px" />
- </p>
-
-<p align="center">
-
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rasika2012&count_private=true&theme=tokyonight" />
-
-</p>
-
-
-<p align="center">
-    <img width="48%" src="https://profile-counter.glitch.me/rasika2012/count.svg" />
-</p>
+<!-- ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kanushka&theme=github) -->
